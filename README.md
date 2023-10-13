@@ -1,8 +1,5 @@
 ### Hi there 👋
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo17579
-Fork on GitHub5131
+
 <h1 align="center">Hi 👋, I'm Aidan Tiu</h1>
 <h3 align="center">A Student-Programmer based in Caloocan, Philippines.</h3>
 
