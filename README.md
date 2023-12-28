@@ -10,8 +10,7 @@ A student-programmer who aspires to be a Cloud Engineer. I am currently polishin
 
 Linkedin: https://www.linkedin.com/in/aidantiu/
 
-Instagram: https://www.instagram.com/bryl.lim/
-
+Instagram: https://www.instagram.com/y.mnwri/
 
 
 
