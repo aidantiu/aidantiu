@@ -1,10 +1,12 @@
 <!-- HEADER -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,100:2563EB&height=200&section=header&text=Aidan%20Tiu&fontColor=ffffff&fontSize=48&animation=fadeIn&fontAlignY=38&desc=DevOps%20%7C%20AI%20Engineer%20%7C%20Full-Stack%20%7C%20Co-Founder%20%26%20CTO&descAlignY=58&descSize=18" alt="header" />
+# Aidan Tiu
+
+**DevOps | AI Engineer | Full-Stack | Co-Founder & CTO**
 
 <!-- TYPING -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=14B8A6&center=true&vCenter=true&width=640&lines=DevOps+%2F+AI+%2F+Full-Stack+Engineer;Co-Founder+%26+CTO+%40+Axon+Enjin;AI+Engineer+%40+Eden+Ventures;BS+Computer+Engineering+%40+PUP;Cutting+deploy+times+from+60+min+to+under+5" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=14B8A6&center=true&vCenter=true&width=800&lines=DevOps+%2F+AI+%2F+Full-Stack+Engineer;Co-Founder+%26+CTO+%40+Axon+Enjin;AI+Engineer+%40+Eden+Ventures;BS+Computer+Engineering+%40+PUP;Cutting+deploy+times+from+60+min+to+under+5" alt="typing" />
 
 <!-- BADGES -->
 <p>
@@ -191,20 +193,6 @@ Plus a serverless GitHub webhook → AWS Lambda → ClickUp pipeline updating ti
 
 </div>
 
-<!-- GITHUB STATS -->
-## GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=aidantiu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=14B8A6&icon_color=2563EB" alt="stats" />
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aidantiu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=14B8A6" alt="top langs" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats-ashen.vercel.app?user=aidantiu&theme=tokyonight&hide_border=true&background=0D1117&ring=14B8A6&fire=2563EB&currStreakLabel=14B8A6" alt="streak" />
-
-</div>
-
 <!-- CONNECT -->
 ## Connect With Me
 
@@ -225,5 +213,3 @@ Plus a serverless GitHub webhook → AWS Lambda → ClickUp pipeline updating ti
 
 </div>
 
-<!-- FOOTER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F766E&height=120&section=footer" alt="footer" />
