@@ -40,21 +40,6 @@
 - **Looking for** a remote role
 - Ask me about **CI/CD · Docker · Terraform · RAG · Next.js**
 
-<details>
-<summary><b>Impact highlights (JLabs Innovatech)</b></summary>
-<br>
-
-| Area | Before | After |
-|---|---|---|
-| Deploy turnaround (CircleCI + Fastlane, 10+ projects) | 60 min | **< 5 min** |
-| Docker container swap window | 60 s | **3 s** (zero-downtime) |
-| New pipeline onboarding (reusable CircleCI Orbs) | 2–3 days | **< 2 hours** |
-| Headless CMS infra (Terraform, 5 environments) | ~2 days | **15-min apply** |
-
-Plus a serverless GitHub webhook → AWS Lambda → ClickUp pipeline updating tickets across 9 environments (~3 hours/day of manual updates removed).
-
-</details>
-
 <!-- TECH STACK -->
 ## Tech Stack
 
@@ -153,15 +138,6 @@ Plus a serverless GitHub webhook → AWS Lambda → ClickUp pipeline updating ti
   </tr>
 </table>
 
-<!-- EXPERIENCE -->
-## Experience
-
-| Role | Org | Period |
-|---|---|---|
-| AI Engineer | Eden Ventures | Jul 2026 – present |
-| Co-Founder & CTO | [Axon Enjin](https://axonenjin.com) | Feb 2026 – present |
-| DevOps Engineer | JLabs Innovatech Inc. | Sep 2025 – Apr 2026 |
-
 <!-- HACKATHONS -->
 ## Hackathons & Awards
 
@@ -171,12 +147,6 @@ Plus a serverless GitHub webhook → AWS Lambda → ClickUp pipeline updating ti
 | **2nd Runner-Up** | Build on Stellar Philippines 2026 | **Axial** | DevOps & Full-Stack |
 | **Finalist (Top 10 of 48)** | Meralco IDOL Hackathon 2025 | **IslaGrid** | DevOps & Frontend |
 | **Award** | PUPreneurship Philanthropic Institution Award 2026 | **Full Cup Café website** (pro bono, Axon Enjin) | Team of 4 |
-
-<!-- EDUCATION -->
-## Education
-
-- **Polytechnic University of the Philippines, Manila** — BS Computer Engineering, specializing in machine learning *(Sep 2023 – present, 4th year)*
-- **STI College Caloocan** — ICT strand, web app and mobile development *(2021)*
 
 <!-- CERTIFICATIONS -->
 ## Certifications
