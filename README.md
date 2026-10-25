@@ -24,22 +24,22 @@
 </div>
 
 <!-- ABOUT ME -->
-## 👋 About Me
+## About Me
 
 **DevOps, AI and full-stack engineer** based in Metro Manila (UTC+8), working remotely and shipping software since 2022. **Co-Founder & CTO at Axon Enjin**, **AI Engineer at Eden Ventures**, and a 4th-year **Computer Engineering (machine learning)** student at **PUP Manila**.
 
-- 🚀 **Now** — AI Engineer at **Eden Ventures** *(Jul 2026 – present)*, building agentic products
-- 🏗️ **Axon Enjin** — Co-Founder & CTO *(Feb 2026 – present)*. MVP infrastructure for early-stage startups on Next.js + Supabase; CI/CD templates and Cloudflare Pages configs cut setup from 2 weeks to under 1; client cloud cost down from ~$200 to under $50/month
-- ⚙️ **DevOps** — CI/CD, containers, Terraform, serverless and infrastructure automation. Previously DevOps Engineer at **JLabs Innovatech** *(Sep 2025 – Apr 2026)*
-- 🤖 **AI** — LLMs, RAG, vector search, agentic pipelines
-- 🌐 **Full-stack** — Next.js, React, TypeScript, Node.js, Python
-- 🏆 **3 hackathon wins** — KPMG Philippines Academic Innovation Challenge 2026 (1st place), Build on Stellar PH 2026 (2nd runner-up), Meralco IDOL 2025 (Top 10 of 48)
-- 🎖️ **PUPreneurship Philanthropic Institution Award (2026)** — awarded to Axon Enjin for building the Full Cup Café website pro bono
-- 🔎 **Looking for** a remote role
-- 💬 Ask me about **CI/CD · Docker · Terraform · RAG · Next.js**
+- **Now** — AI Engineer at **Eden Ventures** *(Jul 2026 – present)*, building agentic products
+- **Axon Enjin** — Co-Founder & CTO *(Feb 2026 – present)*. MVP infrastructure for early-stage startups on Next.js + Supabase; CI/CD templates and Cloudflare Pages configs cut setup from 2 weeks to under 1; client cloud cost down from ~$200 to under $50/month
+- **DevOps** — CI/CD, containers, Terraform, serverless and infrastructure automation. Previously DevOps Engineer at **JLabs Innovatech** *(Sep 2025 – Apr 2026)*
+- **AI** — LLMs, RAG, vector search, agentic pipelines
+- **Full-stack** — Next.js, React, TypeScript, Node.js, Python
+- **3 hackathon wins** — KPMG Philippines Academic Innovation Challenge 2026 (1st place), Build on Stellar PH 2026 (2nd runner-up), Meralco IDOL 2025 (Top 10 of 48)
+- **PUPreneurship Philanthropic Institution Award (2026)** — awarded to Axon Enjin for building the Full Cup Café website pro bono
+- **Looking for** a remote role
+- Ask me about **CI/CD · Docker · Terraform · RAG · Next.js**
 
 <details>
-<summary><b>📈 Impact highlights (JLabs Innovatech)</b></summary>
+<summary><b>Impact highlights (JLabs Innovatech)</b></summary>
 <br>
 
 | Area | Before | After |
@@ -54,7 +54,7 @@ Plus a serverless GitHub webhook → AWS Lambda → ClickUp pipeline updating ti
 </details>
 
 <!-- TECH STACK -->
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -105,28 +105,28 @@ Plus a serverless GitHub webhook → AWS Lambda → ClickUp pipeline updating ti
 </div>
 
 <!-- FEATURED PROJECTS -->
-## 🚀 Featured Projects
+## Featured Projects
 
 <table width="100%">
   <tr>
     <td align="center" width="33%">
       <a href="https://axonenjin.com/articles/kpmg-academic-innovation.html"><b>Archon &amp; Mate</b></a>
       <br><sub>AI academic orchestration: 2 AI SaaS platforms on Azure, GPT + Mistral RAG pipelines with confidence scoring and human review.</sub>
-      <br><sub>🥇 1st Place — KPMG PH Academic Innovation Challenge 2026</sub>
+      <br><sub>1st Place — KPMG PH Academic Innovation Challenge 2026</sub>
       <br><sub><a href="https://axonenjin.com/articles/kpmg-academic-innovation.html">Write-up ↗</a></sub>
     </td>
     <td align="center" width="33%">
       <a href="https://opengraph.githubassets.com/main/Axon-Enjin/axial"><img src="https://opengraph.githubassets.com/main/Axon-Enjin/axial" width="100%" alt="Axial" /></a>
       <br><b><a href="https://github.com/Axon-Enjin/axial">Axial</a></b>
       <br><sub>Fintech liquidity and compliance engine on Stellar: automates BIR EIS tax reporting, Rust/WASM Soroban contracts, ~3–5s USDC atomic swaps.</sub>
-      <br><sub>🥉 2nd Runner-Up — Build on Stellar PH 2026</sub>
+      <br><sub>2nd Runner-Up — Build on Stellar PH 2026</sub>
       <br><sub><a href="https://github.com/Axon-Enjin/axial">Code ↗</a></sub>
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/aidantiu/isla-grid"><img src="https://opengraph.githubassets.com/main/aidantiu/isla-grid" width="100%" alt="IslaGrid" /></a>
       <br><b><a href="https://github.com/aidantiu/isla-grid">IslaGrid</a></b>
       <br><sub>AI community energy platform: renewable feasibility reports for off-grid PH communities (Next.js, Firebase, Gemini).</sub>
-      <br><sub>🚀 Finalist, Top 10 of 48 — Meralco IDOL 2025</sub>
+      <br><sub>Finalist, Top 10 of 48 — Meralco IDOL 2025</sub>
       <br><sub><a href="https://github.com/aidantiu/isla-grid">Code ↗</a></sub>
     </td>
   </tr>
@@ -134,25 +134,25 @@ Plus a serverless GitHub webhook → AWS Lambda → ClickUp pipeline updating ti
     <td align="center" width="33%">
       <a href="https://gdgpup.org/"><b>NEXUS</b></a>
       <br><sub>Community platform for GDG on Campus PUP, ~1,300 users. Turborepo monorepo, Cloud Run, event-day traffic for under $10/month.</sub>
-      <br><sub>⚙️ Lead DevOps · Zod contract-first API</sub>
+      <br><sub>Lead DevOps · Zod contract-first API</sub>
       <br><sub><a href="https://gdgpup.org/">Live ↗</a></sub>
     </td>
     <td align="center" width="33%">
       <b>ymnwri</b>
       <br><sub>Personal homelab: Ansible-provisioned bare-metal Linux, Cloudflare Tunnels + Tailscale (no exposed ports), encrypted backups to Cloudflare R2.</sub>
-      <br><sub>🏠 GitOps · Zero-trust</sub>
+      <br><sub>GitOps · Zero-trust</sub>
     </td>
     <td align="center" width="33%">
       <a href="https://axonenjin.com"><b>Axon Enjin</b></a>
       <br><sub>Startup studio building MVP infrastructure for early-stage startups. Co-Founder &amp; CTO.</sub>
-      <br><sub>🏗️ Next.js · Supabase · Cloudflare</sub>
+      <br><sub>Next.js · Supabase · Cloudflare</sub>
       <br><sub><a href="https://axonenjin.com">Site ↗</a></sub>
     </td>
   </tr>
 </table>
 
 <!-- EXPERIENCE -->
-## 💼 Experience
+## Experience
 
 | Role | Org | Period |
 |---|---|---|
@@ -161,23 +161,23 @@ Plus a serverless GitHub webhook → AWS Lambda → ClickUp pipeline updating ti
 | DevOps Engineer | JLabs Innovatech Inc. | Sep 2025 – Apr 2026 |
 
 <!-- HACKATHONS -->
-## 🏆 Hackathons & Awards
+## Hackathons & Awards
 
 | Result | Event | Project | Role |
 |---|---|---|---|
-| 🥇 **1st Place** | KPMG Philippines Academic Innovation Challenge 2026 | **Archon & Mate** | AIOps & AI Engineer |
-| 🥉 **2nd Runner-Up** | Build on Stellar Philippines 2026 | **Axial** | DevOps & Full-Stack |
-| 🚀 **Finalist (Top 10 of 48)** | Meralco IDOL Hackathon 2025 | **IslaGrid** | DevOps & Frontend |
-| 🎖️ **Award** | PUPreneurship Philanthropic Institution Award 2026 | **Full Cup Café website** (pro bono, Axon Enjin) | Team of 4 |
+| **1st Place** | KPMG Philippines Academic Innovation Challenge 2026 | **Archon & Mate** | AIOps & AI Engineer |
+| **2nd Runner-Up** | Build on Stellar Philippines 2026 | **Axial** | DevOps & Full-Stack |
+| **Finalist (Top 10 of 48)** | Meralco IDOL Hackathon 2025 | **IslaGrid** | DevOps & Frontend |
+| **Award** | PUPreneurship Philanthropic Institution Award 2026 | **Full Cup Café website** (pro bono, Axon Enjin) | Team of 4 |
 
 <!-- EDUCATION -->
-## 🎓 Education
+## Education
 
 - **Polytechnic University of the Philippines, Manila** — BS Computer Engineering, specializing in machine learning *(Sep 2023 – present, 4th year)*
 - **STI College Caloocan** — ICT strand, web app and mobile development *(2021)*
 
 <!-- CERTIFICATIONS -->
-## 📜 Certifications
+## Certifications
 
 <div align="center">
 
@@ -192,7 +192,7 @@ Plus a serverless GitHub webhook → AWS Lambda → ClickUp pipeline updating ti
 </div>
 
 <!-- GITHUB STATS -->
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -206,7 +206,7 @@ Plus a serverless GitHub webhook → AWS Lambda → ClickUp pipeline updating ti
 </div>
 
 <!-- CONNECT -->
-## 🤝 Connect With Me
+## Connect With Me
 
 <div align="center">
 
